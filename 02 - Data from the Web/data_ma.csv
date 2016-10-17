@@ -1,4 +1,4 @@
-gender,mineur,name,sciper,specialization,status,section,year,semester,season
+gender,minor,name,sciper,specialization,status,section,year,semester,season
 Monsieur,,Aeberhard François-Xavier,153066,,Présent,Informatique,2007-2008,Master semestre 1,Semestre d'automne
 Madame,,Agarwal Megha,180027,,Présent,Informatique,2007-2008,Master semestre 1,Semestre d'automne
 Monsieur,,Anagnostaras David,152232,,Présent,Informatique,2007-2008,Master semestre 1,Semestre d'automne
@@ -219,6 +219,11 @@ Monsieur,,Wafellman Jonathan,155093,Internet computing,Présent,Informatique,20
 Madame,,Wang Zufferey Yuanjian,171511,,Présent,Informatique,2007-2008,Master semestre 3,Semestre d'automne
 Monsieur,,Yersin Antoine,155124,,Présent,Informatique,2007-2008,Master semestre 3,Semestre d'automne
 Monsieur,,Zheng Da,172221,,Stage,Informatique,2007-2008,Master semestre 3,Semestre d'automne
+Monsieur,,Brutsche Florian,159852,Internet computing,Congé,Informatique,2007-2008,Projet Master printemps,Semestre de printemps
+Monsieur,,Dotta Mirco,153819,,Stage,Informatique,2007-2008,Projet Master printemps,Semestre de printemps
+Monsieur,,Hügli Michael,145957,,Stage,Informatique,2007-2008,Projet Master printemps,Semestre de printemps
+Monsieur,,Indra Saurabh,173257,,Présent,Informatique,2007-2008,Projet Master printemps,Semestre de printemps
+Monsieur,,Lépine Simon,160150,Biocomputing,Présent,Informatique,2007-2008,Projet Master printemps,Semestre de printemps
 Madame,,Aydin Ebru,183512,,Présent,Informatique,2008-2009,Master semestre 1,Semestre d'automne
 Monsieur,,Bakshev Stanimir,185607,,Présent,Informatique,2008-2009,Master semestre 1,Semestre d'automne
 Monsieur,,Bécholey Alexandre,160213,,Présent,Informatique,2008-2009,Master semestre 1,Semestre d'automne
@@ -388,6 +393,14 @@ Monsieur,,Roux Alexandre,166263,Foundations of Software,Présent,Informatique,2
 Monsieur,,Schintgen Joël,160991,Internet computing,Présent,Informatique,2008-2009,Master semestre 3,Semestre d'automne
 Monsieur,,Suter François,154706,,Stage,Informatique,2008-2009,Master semestre 3,Semestre d'automne
 Monsieur,,Wei Zhe,155097,,Présent,Informatique,2008-2009,Master semestre 3,Semestre d'automne
+Madame,,Agarwal Megha,180027,,Stage,Informatique,2008-2009,Projet Master automne,Semestre d'automne
+Monsieur,,Brutsche Florian,159852,Internet computing,Congé,Informatique,2008-2009,Projet Master automne,Semestre d'automne
+Monsieur,,Fleury Marc-Olivier,166805,,Stage,Informatique,2008-2009,Projet Master automne,Semestre d'automne
+Monsieur,,Billaud Joël,172687,,Stage,Informatique,2008-2009,Projet Master printemps,Semestre de printemps
+Monsieur,,Campora Simone,180072,Internet computing,Stage,Informatique,2008-2009,Projet Master printemps,Semestre de printemps
+Monsieur,,Cassata Alexandre,160225,,Stage,Informatique,2008-2009,Projet Master printemps,Semestre de printemps
+Monsieur,,Hofer Thomas,165819,Foundations of Software,Congé,Informatique,2008-2009,Projet Master printemps,Semestre de printemps
+Monsieur,,Muriel Hugo Marcelo,179878,Internet computing,Stage,Informatique,2008-2009,Projet Master printemps,Semestre de printemps
 Monsieur,"Mineur en Management, technologie et entrepreneuriat",Barras Florian,170220,,Présent,Informatique,2009-2010,Master semestre 1,Semestre d'automne
 Monsieur,,Beuret Thibaut,166701,,Présent,Informatique,2009-2010,Master semestre 1,Semestre d'automne
 Monsieur,,Bindschaedler Laurent,170654,,Présent,Informatique,2009-2010,Master semestre 1,Semestre d'automne
@@ -533,6 +546,15 @@ Monsieur,,Stroe Dante,185522,Internet computing,Présent,Informatique,2009-2010
 Monsieur,,Taggiasco Matthieu,167447,,Présent,Informatique,2009-2010,Master semestre 3,Semestre d'automne
 Monsieur,"Mineur en Management, technologie et entrepreneuriat",Tangui Achraf,167045,,Présent,Informatique,2009-2010,Master semestre 3,Semestre d'automne
 Monsieur,,Vogt Pascal,170265,,Présent,Informatique,2009-2010,Master semestre 3,Semestre d'automne
+Madame,,Aydin Ebru,183512,,Stage,Informatique,2009-2010,Projet Master automne,Semestre d'automne
+Monsieur,,Bécholey Alexandre,160213,,Présent,Informatique,2009-2010,Projet Master automne,Semestre d'automne
+Monsieur,,Bécholey Alexandre,160213,,Congé,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Madame,,Benabdallah Zeineb,154573,Biocomputing,Présent,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Monsieur,,Cunha Pedro Andre,185523,Internet computing,Présent,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Madame,,Kostic Teodora,183605,,Présent,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Monsieur,,Raja Yanick,159516,,Présent,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Monsieur,,Stroe Bogdan,186060,Foundations of Software,Stage,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
+Monsieur,,Stroe Dante,185522,Internet computing,Stage,Informatique,2009-2010,Projet Master printemps,Semestre de printemps
 Monsieur,,Abelenda Diego,170646,"Signals, Images and Interfaces",Présent,Informatique,2010-2011,Master semestre 1,Semestre d'automne
 Madame,,Alsudairy Sara,202318,,Présent,Informatique,2010-2011,Master semestre 1,Semestre d'automne
 Madame,,Aretaki Aikaterini,200359,,Présent,Informatique,2010-2011,Master semestre 1,Semestre d'automne
@@ -775,6 +797,14 @@ Monsieur,,Tourino Pablo,161220,,Présent,Informatique,2010-2011,Master semestre
 Monsieur,,Tran Dang Khoa,190822,Internet computing,Présent,Informatique,2010-2011,Master semestre 3,Semestre d'automne
 Madame,,Tsiminaki Vagia,193767,,Présent,Informatique,2010-2011,Master semestre 3,Semestre d'automne
 Monsieur,,Upadhyay Utkarsh,191181,Foundations of Software,Stage,Informatique,2010-2011,Master semestre 3,Semestre d'automne
+Monsieur,,Brot Benoît,191471,,Présent,Informatique,2010-2011,Projet Master automne,Semestre d'automne
+Monsieur,,Marx Clément,146742,"Signals, Images and Interfaces",Présent,Informatique,2010-2011,Projet Master automne,Semestre d'automne
+Monsieur,,Biollay Jean Isaac Jamal Pachacutec,161279,,Stage,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
+Monsieur,,Blatter Jérémy,166344,,Congé,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
+Monsieur,,Brot Benoît,191471,,Congé,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
+Monsieur,,Imperatori Alexandre,166491,,Congé,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
+Monsieur,,Kesici Omer,174045,,Stage,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
+Monsieur,,Marx Clément,146742,,Congé,Informatique,2010-2011,Projet Master printemps,Semestre de printemps
 Monsieur,,Arnfred Jonas,184772,,Présent,Informatique,2011-2012,Master semestre 1,Semestre d'automne
 Monsieur,,Asgari Ehsaneddin,211754,,Présent,Informatique,2011-2012,Master semestre 1,Semestre d'automne
 Monsieur,,Baeriswyl Jonathan,179406,,Présent,Informatique,2011-2012,Master semestre 1,Semestre d'automne
@@ -1064,6 +1094,26 @@ Monsieur,"Mineur en Management, technologie et entrepreneuriat",Viswanathan Vij
 Monsieur,,Zbinden Eric,170267,Foundations of Software,Présent,Informatique,2011-2012,Master semestre 3,Semestre d'automne
 Monsieur,,Zemleris Vidmantas,200282,,Présent,Informatique,2011-2012,Master semestre 3,Semestre d'automne
 Monsieur,,Zhou Kai,199238,,Présent,Informatique,2011-2012,Master semestre 3,Semestre d'automne
+Monsieur,,Atitallah Samir,196669,,Présent,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Madame,,Bogos Sonia Mihaela,200065,,Stage,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Buchschacher Nicolas,171619,,Présent,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Frélich Lukás,200597,,Stage,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Houdemer Charles-Henry,170239,,Présent,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Nötzli Andres,181017,,Stage,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Pesic Dimitrije,200808,,Stage,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Pittet Jonathan,170176,,Présent,Informatique,2011-2012,Projet Master automne,Semestre d'automne
+Monsieur,,Bloch Marc-Olivier,178553,,Présent,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Bricola Jean-Charles,180731,"Signals, Images and Interfaces",Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Chakrabarty Soumitro,199654,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Dosmukhamedov Diyar,192861,Internet computing,Présent,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Gruner Samuel,170235,,Congé,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Hanser Valérian,175190,,Présent,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Jing Lifu,200419,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Miraglia Franco de Carvalho Pedro,181115,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Mortada Hamid,171091,,Présent,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Perrenoud Basile Samuel,179670,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Monsieur,,Restani Stéphane,180959,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
+Madame,"Mineur en Management, technologie et entrepreneuriat",Stojanov Marica,196602,,Stage,Informatique,2011-2012,Projet Master printemps,Semestre de printemps
 Monsieur,"Mineur en Management, technologie et entrepreneuriat",Aranibar Casas Ivan Wilson,225434,,Présent,Informatique,2012-2013,Master semestre 1,Semestre d'automne
 Monsieur,"Mineur en Management, technologie et entrepreneuriat",Aubelle Flavien,174905,,Présent,Informatique,2012-2013,Master semestre 1,Semestre d'automne
 Monsieur,,Augsburger Damien,186595,,Présent,Informatique,2012-2013,Master semestre 1,Semestre d'automne
@@ -1366,6 +1416,7 @@ Monsieur,,Zhong Cheng,210356,,Stage,Informatique,2012-2013,Master semestre 3,Se
 Monsieur,,Zhou Yunpeng,180916,,Présent,Informatique,2012-2013,Master semestre 3,Semestre d'automne
 Monsieur,,Zimmermann Marc,184342,Foundations of Software,Présent,Informatique,2012-2013,Master semestre 3,Semestre d'automne
 Monsieur,,Zoller Roman,178682,Foundations of Software,Présent,Informatique,2012-2013,Master semestre 3,Semestre d'automne
+Monsieur,,Coca Olmos Cievoloth Gilber,202059,Service science,Présent,Informatique,2012-2013,Projet Master automne,Semestre d'automne
 Madame,,Abbadi Hajar,238067,,Présent,Informatique,2013-2014,Master semestre 1,Semestre d'automne
 Monsieur,,Ahmed Fayzan,235799,,Présent,Informatique,2013-2014,Master semestre 1,Semestre d'automne
 Monsieur,,Angel Axel,201284,,Présent,Informatique,2013-2014,Master semestre 1,Semestre d'automne
@@ -1680,6 +1731,8 @@ Monsieur,,Watrin Thibaut,186215,,Présent,Informatique,2013-2014,Master semestr
 Monsieur,,Widmer Florian,186188,,Présent,Informatique,2013-2014,Master semestre 3,Semestre d'automne
 Madame,,Xu He,225472,,Présent,Informatique,2013-2014,Master semestre 3,Semestre d'automne
 Monsieur,,Zablotchi Mihail Igor,192870,Internet computing,Présent,Informatique,2013-2014,Master semestre 3,Semestre d'automne
+Monsieur,,Lukovics Akos,223102,,Présent,Informatique,2013-2014,Projet Master automne,Semestre d'automne
+Monsieur,,Tran Bao Duy,210215,Internet computing,Présent,Informatique,2013-2014,Projet Master automne,Semestre d'automne
 Monsieur,,Amiguet Jérôme,166075,,Présent,Informatique,2014-2015,Master semestre 1,Semestre d'automne
 Monsieur,,Anadon Laurent Marie Patrick,245182,,Présent,Informatique,2014-2015,Master semestre 1,Semestre d'automne
 Monsieur,,Antognini Marco,194182,,Présent,Informatique,2014-2015,Master semestre 1,Semestre d'automne
@@ -2430,258 +2483,4 @@ Monsieur,,Zellweger Vincent,184533,,Présent,Informatique,2015-2016,Master seme
 Madame,,Zhang Jin,245293,,Présent,Informatique,2015-2016,Master semestre 3,Semestre d'automne
 Monsieur,,Zhao Min,244402,,Stage,Informatique,2015-2016,Master semestre 3,Semestre d'automne
 Monsieur,,Zimmermann Florian,170946,"Signals, Images and Interfaces",Présent,Informatique,2015-2016,Master semestre 3,Semestre d'automne
-Monsieur,,Adams Marc Alain,271331,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Adamsons Valdis,273101,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Agapiou Stylianos,267543,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Aiulfi Loris Sandro,202293,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Alfonso Peterssen Alfonso,228219,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Angerand Grégoire Georges Jacques,212464,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Anongba Varela Dario Abougnan,226371,Software Systems,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Aquil Mohammad Amimul Ihsan,273107,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bao Junze,266983,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Barbera Antonino,273118,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Barnabishvili Sandro,268422,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bhattacharyya Atri,269369,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Birchmeier Alain Dominique,227120,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bonfils Nils Pascal,236802,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bonnome Hugo,227370,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bordenca Tobias,226312,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bouron Justinien Gérard Alain,236608,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Brousse Cyriaque Gilles Guillaume,227209,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Bruneau Basile Gérard Pierre,268695,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Cartier Alexis Victor Xavier,202973,Data Analytics,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Casademont Nicolas,223485,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Chachuat Marc Charles Francis,268704,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Champenois Bertrand Brice Marc,273156,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Charoud-Got Perséas Orféas,238020,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Chatelain Bastien Ludovic,225203,"Signals, Images and Interfaces",Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Chevalley Sébastien,228278,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Cibils André Joaquin Joseph,234840,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Colombo Pierre Jean Adrien,272324,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Cretegny Benoit Till,186790,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Cretu Ana Maria,267706,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,del Marmol Syméon Marie J.,273163,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Delamare Arnaud Vincent Julien,234841,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Devaux Matthieu Gaston Michel Albert,239366,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Dimovski Mladen,268907,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Djambazovska Sandra,224638,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Dopiro Ekaterina,234960,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Dryzner Radoslaw Patryk,234218,Software Systems,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Dupont Costedoat Yann Olivier François Marie,236234,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Duré Laurence,194836,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,El Zein Yamane,272025,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Fleury Lionel,235568,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Gahlinger Jérôme,225552,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Germanicus Clément Matthieu Alexandre,268746,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Girod Luc,192555,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Gotmare Akhilesh Deepak,272620,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Grimault Yannick Erwan,247875,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Gucevska Natalija,228197,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Häfliger Adan,217422,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Han Chong,254805,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Hendrikx Hadrien,268910,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Hentgen Emily Sandrine Victoria,233844,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,Mineur en Neurosciences computationnelles,Hofer Nataniel,237677,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Holloway Alexander Patrick,271965,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Hottinger Jeremy,259573,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Huet Joachim,224847,"Signals, Images and Interfaces",Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Imani Ismail,204869,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Jarrar Elias,224948,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Kaufmann Joël Laurent,225776,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Khau Anh Nghia,223613,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Khoury Jad-Nicolas Elie,227950,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Kiliç Ilkan Fabrice,252281,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Kjosev Tasho,269412,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Kuenlin Quentin,234033,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Kulovic Ahmed,236725,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Kuziora Marta Kinga,272817,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Launay Clément Hervé Stéphane,272783,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Laville Quentin Benoît,231935,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Lazarev Nikita,268769,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Le Tourneux De La Perraudiere Valentin Marie Marc,272785,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Li Yuxiang,268773,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Link Jonathan Stéphane Oskar,201568,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Lottaz Timothée,223744,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Loup Vincent,225688,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Lukas Loris,193051,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Martin Fearnley Silvius,268464,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Martinelli Mattia,271711,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Mayor Jérémie Johan,256592,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Maystre Gilbert Théodore,237272,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Milliet Alain Georges Paul,228408,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Mirzadeh Nooshin Sadat,233387,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Monnin Lucas,224552,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Montero Hernandez Aimée,221053,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Moser Lukas,239314,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Moullet Valentin,231078,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,Mineur STAS Chine,Mrini Khalil,233800,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Mylnikov Aleksandr,266300,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Najdenova Iva,269423,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Narduzzi Simon,226807,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Neu Virgile Clovis Cédric,224138,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Nicolet Paul Sylvain Emmanuel,234501,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Nie Shiyue,272086,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Nigolian Valentin Zenon,217276,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Ozdayi Mustafa Safa,267060,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Padh Kirtan Shyamal,253734,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Palanichamy Ranjitha,248447,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Paluchowski Mateusz,268005,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Pavllo Dario,273251,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Perrin Sami,196034,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Petri Vincent,269098,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Petrovski Bojan,268618,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Pires Lucas,228354,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Pla Puigsubira Ireneu,204988,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Popovych Olga,258813,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Pradignac Nicolas,223365,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Premi Max Charles-Yves Piotr,235014,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Quinteiro Quintas Nathan,252556,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Quinton Pierre Victor Xavier,224553,Data Analytics,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Radovanovic Nevena,259745,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Ritter Nicolas,225730,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Rizzello Luca,235350,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Rodrigues Alves Danny Rafael,225749,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Rosset Marius,236522,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Rousset Valérian Tanguy Xavier,229049,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Ruetschi Romain Roland,218357,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Rutagarama Maxime,223552,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Sacchi Niccolò,272509,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Shevchenko Artem,269467,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Sidorenko Semion,208359,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Steinmann Raphaël Benjamin,225711,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Succa Riccardo,268226,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Sun Hao,268577,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Tâche Guillaume,239124,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Talagrand Loïs Anthony,234231,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Thambipillai Melchior Tharma,224640,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Tomoiaga Ciprian-Ioan,269096,Data Analytics,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Tournigand Guillaume Nicolas Louis,235117,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Tresch Christian,271189,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Urien Thibault Félix,212686,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Vallee Josselin André Jean,214573,Data Analytics,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Vanderwilt Seth William,268562,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Vasiliu Valentin,273182,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Vion Roger,175410,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Weiskopf Robin,226658,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Wirz Leonardo Enrique,227775,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Yin Wensi,273006,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Yiue Ya-Lan,273563,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Zellweger Fabien André,209450,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Madame,,Zhang Weiyu,269057,,Présent,Informatique,2016-2017,Master semestre 1,Semestre d'automne
-Monsieur,,Dezfuli Seyyed Sina,268709,,Présent,Informatique,2016-2017,Master semestre 2,Semestre de printemps
-Madame,,Abi Akar Nora,251253,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Aeby Prisca,225654,Internet Information Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Alnasser Riyadh Abdulaziz M,257825,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Amorim Afonso Caldeira Da Silva Pedro Maria,213618,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Andreina Sébastien Laurent,215623,Information Security - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Balaban Metin,251470,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Beguet Romain Michel,226638,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Bell Enea,248358,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Benhamadi Yassine,185991,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bennani-Smires Kamil,204958,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Berdat Johan,204393,"Signals, Images and Interfaces",Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bertrand Christophe,226703,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Billardon Baptiste Olivier Jacques,202704,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bloch Aurélien François Gilbert,224627,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bosson Gaylor,223606,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bougacha Malik,186264,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Bouvier Ogier Quentin,212480,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Briant Florian Marcel,205434,Foundations of Software,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Carlessi Alexandre,194875,Internet computing,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Cerchierini Matias,212654,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Chen Pei-I,255474,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Cook Cedric Radboud Ernest,225483,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Cotofrei Radu-Mihai,223566,"Signals, Images and Interfaces",Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Demotz Vincent Daniel,257819,Software Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Depraz Florian Vincent,214225,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Devillard Florent,213027,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Doy Damien,244206,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Dragic Ozrenko,256143,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Drougard Malcom Malo,201253,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Emery Timothée,217439,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Endignoux Guillaume Francois Maurice,255879,Information Security - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Eslier Thomas François Alex,213186,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Filipponi Matteo,206888,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Mineur en Ingénierie financière,Fiszel Ruben Leo,216451,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Mineur en Microtechnique,Fong Roger Duan,256231,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Fontaine Xavier Philippe Marie,255255,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Forte Marques Daniel,208402,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Gebara Nadeen Yassir,255081,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Giannakopoulos Athanasios,246759,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Girod Matthieu,226826,Information Security - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Gray Vargas Daniel Elias,256590,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Gucevska Zhivka,205008,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Güzelhan Can,192219,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Guggenheim Daniel Vincent,224356,Data Analytics,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Habegger Loïc,195804,"Signals, Images and Interfaces",Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Haprian Vlad Ioan,223867,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Heer Philippe,192685,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Hou Yumeng,259719,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Humbert Clément Mathieu,203066,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Ilievski Vladimir,256710,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Ioannou Konstantinos,255737,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Jain Smriti,255700,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Jolidon Fabien,181244,Internet computing,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Kabil Selen Hande,260968,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Kapp Hugo Stéphane,227942,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Karlas Bojan,238199,"Signals, Images and Interfaces",Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Kashani-Akhavan Sahand,201034,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Kellenberger Lukas Andreas,217629,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Khokhlov Matvey,214750,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Mineur en Neurosciences computationnelles,Korcek Juraj,251723,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Künstner Frederik Dieter,227443,Computer Science Theory,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Mineur en Ingénierie financière,Kyritsis Georgios,255203,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Lahoud Fayez,254809,"Signals, Images and Interfaces",Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Lal Sourabh,256686,Internet computing,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Leclerc Guillaume Paul Olivier,224338,Software Systems,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Liang Zixuan,255019,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Liu Chen,254860,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Liu Jinbu,255086,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Löffel Audrey Stéphanie,217360,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Lu Jun,254412,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,M'Hamdi Meryem,261006,Data Analytics,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Ma Wei,254675,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Marchal Tristan Albert,224331,Information Security - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Marengo Julien Lionel,205771,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Mettraux Vincent Michel,201042,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Milano Hadrien,224340,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Monney Mathieu,196065,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Information security minor,Mouchet Christian Vincent,217453,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Muth Joachim,214757,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Nikitina Tatiana,245685,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Nimier-David Merlin Eléazar,247309,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Nurlu Gökçen,254650,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Ottet Loïc,225743,Foundations of Software,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Overney Tristan David,217280,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Parmantier Hector Andreas Alexandre,225757,Data Analytics,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Pestalozzi Rossi Lukas Andri,227660,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Pirelli Solal Vincenzo,223572,Software Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Plancherel Nicolas Bernard Lucien,217393,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Popovic Radmila,251558,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Racine Jason Rémy,244270,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Raemy Baptiste,228358,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Raho Moritz Fabian,225274,Software Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Regamey Samuel,184366,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Reich Nicolas Alexandre,223287,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Renucci Allan Vincent Roger,205095,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Rouault Sébastien Louis Alexandre,260806,Software Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Roulin Andy,216690,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,"Mineur en Management, technologie et entrepreneuriat",Salathé Joanna Béatrice,217489,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Sarigiannis Dimitrios,256553,Data Analytics,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Schaeffer Yannick,186020,Software Systems,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Séchaud Gaétan,217500,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Séguy Louis Marie James,204222,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Semple Alexis Nabil,224304,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Sottas Baptiste,217056,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,"Mineur en Management, technologie et entrepreneuriat",Sympetheros Alexandros,256612,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Tafani-Dereeper Christophe Clément,223529,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Theytaz Joël Régis,227590,Information Security - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Torche Jérôme William,224639,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Vassor Martin Thomas,223825,Computer Engineering - SP,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Vessaz Yannick,225096,Internet computing,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Veuthey Alexandre Bernard Robert,224295,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,Mineur en Neurosciences computationnelles,Vostriakov Alexander,196683,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Wang Junxiong,254478,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Yüzügüler Ahmet Caner,240268,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Monsieur,,Zakhour George,261146,,Présent,Informatique,2016-2017,Master semestre 3,Semestre d'automne
-Madame,,Zhou Lisa,256870,,Stage,Informatique,2016-2017,Master semestre 3,Semestre d'automne
+Monsieur,,Hahling Robin Philippe,233184,,Présent,Informatique,2015-2016,Projet Master automne,Semestre d'automne
